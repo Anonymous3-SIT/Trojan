@@ -79,9 +79,9 @@ def usage():
 
     <<------------------------------------------------------>>
         Athor   : Mr.TamfanX "
-        TEAM    :SHUTDOWN INDO TEAM "
+        TEAM    : SHUTDOWN INDO TEAM "
         WhatsApp: 08999271792 "
-        Thanks for Allah S.W.T
+        Thanks To Allah S.W.T
     <<------------------------------------------------------->>
         
 
@@ -96,7 +96,7 @@ def usage():
     suatu server!
     
 
-  Contoh: python3 Trojan.py -s (ip Yang Mau Lu Down-in) -p (isi aja 80) -t (turbo 135) 
+  Contoh: python3 Trojans.py -s (ip Yang Mau Lu Down-in) -p (isi aja 80) -t (turbo 135) 
 
 
 	usage : python3 Trojans.py [-s] [-p] [-t]
